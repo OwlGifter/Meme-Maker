@@ -1,0 +1,22 @@
+html{
+    background-color: black;
+}
+img{
+    width: 100%;
+    border: solid white;
+}
+
+.textheading{
+    font-size: 4em;
+    font-family: "Poetsen One", sans-serif;
+}
+.textE{
+    font-size: 2em;
+}
+#grabs-everything{
+    margin-top: 100px;
+    width: 50%;
+    margin-left: 25%;
+    color: white;
+    text-align: center;
+}
